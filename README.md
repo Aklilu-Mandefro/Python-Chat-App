@@ -1,7 +1,7 @@
 <hr>
 
 <h1 align="left">Hey there, I'm <a href="https://volunteer-tech.com/Aklilu">Aklilu </a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> 
- <a href="https://github.com/harismuneer/Ultimate-Facebook-Scraper"><img align="right" src="https://volunteer-tech.com/Aklilu/uploads/gallery/202205/image_500x_6273d3aaa57de.jpg" alt="Developer's Profile" width="200"/></a> - A Tech Enthusiast </h1> 
+ <a href="https://volunteer-tech.com/Aklilu"><img align="right" src="https://volunteer-tech.com/Aklilu/uploads/gallery/202205/image_500x_6273d3aaa57de.jpg" alt="Developer's Profile" width="200"/></a> - A Tech Enthusiast </h1> 
 
 
 #### I love coding and most of my time goes into learning the best ways to write clean code. When I am not at my desk, I can be seen helping out tech geeks and writing software engineering contents. I am always open to help others.
@@ -90,3 +90,4 @@ while 1:
     print('Sent')
     print()
 ```
+<hr>
