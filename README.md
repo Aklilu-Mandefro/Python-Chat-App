@@ -40,7 +40,7 @@ In order to run the python script, your system must have the following programs/
 ## Server Code
 ```
 # Program to accept client request
-# Author @inforkgodara
+# Author @Aklilu-Mandefro
 
 import socket
 
@@ -70,7 +70,7 @@ while 1:
 ## Client Code
 ```
 # Program to send request to the server
-# Author @inforkgodara
+# Author @Aklilu-Mandefro
 
 import socket
 
